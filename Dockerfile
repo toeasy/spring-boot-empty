@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM docker.io/bitnami/java:1.8
 
 WORKDIR /home
 
